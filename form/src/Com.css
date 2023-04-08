@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box
+{
+    width: 500px;
+    background-color: thistle;
+    border: 2px solid rgb(147, 106, 147);
+    margin: auto;
+    padding: 30px;
+    border-radius: 20px;
+}
+input
+{
+    display: block;
+    margin: 20px;
+    width: 400px;
+    margin-top: 40px;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 2px solid rgb(135, 104, 135);
+}
+button
+{
+    padding: 20px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    border: 2px solid white;
+    background-color: rgb(173, 141, 173);
+}
